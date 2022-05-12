@@ -1,4 +1,4 @@
-# playlist_de_filmes_e_series
+# Playlist_de_filmes_e_series
 
 Projeto desenvolvido no "Curso de Python 3: Avançando na orientação a objetos" ministrado pelo professor Luan Marques, na plataforma de aprendizado online Alura.
 
